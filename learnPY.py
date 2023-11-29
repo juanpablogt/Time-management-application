@@ -33,4 +33,8 @@ print(favorite_language)
 favorite_language.lstrip()
 print(favorite_language)
 favorite_language.strip()
+<<<<<<< HEAD
 print(favorite_language)
+=======
+print(favorite_language)
+>>>>>>> main
