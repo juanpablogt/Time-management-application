@@ -33,8 +33,12 @@ print(favorite_language)
 favorite_language.lstrip()
 print(favorite_language)
 favorite_language.strip()
-<<<<<<< HEAD
 print(favorite_language)
-=======
 print(favorite_language)
->>>>>>> main
+
+text = "One of Python's strengths is its diverse community."
+print(text)
+
+text = 'One of Python\'s strengths is its diverse community.'
+print(text)
+
